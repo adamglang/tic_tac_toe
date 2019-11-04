@@ -1,0 +1,29 @@
+{
+  "name": "tic_tac_toe",
+  "version": "1.0.0",
+  "description": "scaffolding for tic tac toe technichal interview question",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "yamljs": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamglang/tic_tac_toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamglang/tic_tac_toe/issues"
+  },
+  "homepage": "https://github.com/adamglang/tic_tac_toe#readme"
+}
