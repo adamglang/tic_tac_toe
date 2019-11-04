@@ -6,8 +6,10 @@
 ```javascript
 npm install
 ```
-4. At the root of the cloned repo run 
+4. Go tothe root of the cloned repo 
+
+5. Run 
 ```javascript
 node server
 ```
-5. go to localhost:3000
+6. go to localhost:3000
